@@ -1,3 +1,3 @@
 # Tv-B-Gone-IR-codes
 
-agregé más codigos de nuevos modelos de teles, fui a soriana y varias tiendas que venden teles y vi las marcas y modelos y los busqué en internet, seguiré agregando
+Añadí códigos de nuevos modelos de televisores. Visité Soriana y otras tiendas que venden televisores, observando marcas y modelos para luego buscarlos en internet. Continuaré añadiendo más información.
